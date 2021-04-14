@@ -1,0 +1,59 @@
+html{
+    height: auto;
+    background: radial-gradient(circle,#fff,#ccc);
+    
+}
+#container{
+    height: 600px;
+    width: 500px;
+    margin:100px auto;
+    background-color: azure;
+    box-shadow: 2px 2px 4px 4px;
+    border-radius: 4px;
+    position:inherit;
+}
+#top{
+    background-color: skyblue;
+    height: 130px;
+    position: relative;
+}
+#ORORBAR{
+    padding: 20px;
+    height: 100px;
+    margin: 20px 160px;
+    background-color: grey;
+    text-align: center;
+}
+#add{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    margin: 80px 180px;
+    text-align: center;
+    
+}
+#down{
+    background-color: skyblue;
+    height:100px;
+}
+#back{
+    margin: 20px 20px;
+    height: 3px;
+    padding: 30px;
+    float: left;
+    border: solid;
+    border-color: black;
+     border-radius: 1000px;
+    background-color: skyblue;
+}
+#cart{
+    height: 100px;
+    margin: 20px 20px;
+    left: 700px;
+    float:right;
+}
+#customerid{
+    margin:20px 40px;
+    height: 20px;
+    
+}
